@@ -33,3 +33,9 @@ fields:
     min: '0'
     max: '6'
     required: true
+- type: text
+  name: publication
+  label: publication name
+  description: For example, Notices of the AMS
+  config:
+    required: false
