@@ -42,3 +42,5 @@ fields:
   name: url_pdf
   label: PDF upload
   description: Do you have a PDF of the publication?
+pages:
+- content/publication/a-new-publication.md
