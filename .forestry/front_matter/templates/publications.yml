@@ -3,14 +3,13 @@ label: Publications
 hide_body: true
 is_partial: false
 fields:
-- type: text
-  label: Title
-  name: title
-  description: the title of the publication
-  hidden: false
-  config:
-    required: true
-  default: Name of the publication
+- type: tag_list
+  name: authors
+  label: authors
+  description: 'authors of the article like this: Harel, G.'
+  default:
+  - G. Harel
+  - B. Obama
 - type: datetime
   name: date
   label: Year
@@ -19,13 +18,14 @@ fields:
     date_format: YYYY
     required: true
   default: 2019-01-01 08:00:00 +0000
-- type: tag_list
-  name: authors
-  label: authors
-  description: 'authors of the article like this: Harel, G.'
-  default:
-  - G. Harel
-  - B. Obama
+- type: text
+  label: Title
+  name: title
+  description: the title of the publication
+  hidden: false
+  config:
+    required: true
+  default: Name of the publication
 - type: text
   name: publication
   label: publication name
@@ -33,6 +33,15 @@ fields:
   config:
     required: false
   default: Notices of the AMS
+- type: text
+  name: edition
+  label: Publication edition / volume
+  description: What is the edition or volume of the publication?
+- type: text
+  label: Pages
+  name: pages
+  description: the pages that you wrote
+  default: 229 - 247
 - type: tag_list
   name: publication_types
   label: publication types
@@ -40,20 +49,15 @@ fields:
     3 = Manuscript, 4 = Report, 5 = Book, 6 = Book section'
   default:
   - '2'
+- type: file
+  name: url_pdf
+  label: PDF upload
+  description: Do you have a PDF of the publication?
 - type: boolean
   name: selected
   label: Selected
   description: Is this a selected publication?  If so, it will also show up on your
     homepage.
   default: false
-- type: file
-  name: url_pdf
-  label: PDF upload
-  description: Do you have a PDF of the publication?
-- type: text
-  label: Pages
-  name: pages
-  description: the pages that you wrote
-  default: 229 - 247
 pages:
 - content/publication/research-in-collegiate-mathematics-education-vi.md
