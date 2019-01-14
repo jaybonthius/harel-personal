@@ -1,45 +1,25 @@
 +++
-# Experience widget.
-widget = "experience"  # Do not modify this line!
-active = true  # Activate this widget? true/false
-
-title = "Experience"
-subtitle = ""
-
-# Order that this section will appear in.
-weight = 8
-
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+active = true
 date_format = "January 2006"
-
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+subtitle = ""
+title = "Experience"
+weight = 8
+widget = "experience"
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
+company = "GenCoin"
+company_url = ""
+date_end = ""
+date_start = "2017-01-01"
+description = "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  * Deploying\n  "
+location = "California"
+title = "Professor?"
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+company = "University X"
+company_url = ""
+date_end = "2016-12-31"
+date_start = "2016-01-01"
+description = "Taught electronic engineering and researched semiconductor physics."
+location = "California"
+title = "Professor"
 
 +++
