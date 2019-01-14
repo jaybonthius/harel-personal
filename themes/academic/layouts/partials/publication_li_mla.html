@@ -6,7 +6,12 @@
     {{- end -}}
   </span>. 
   ({{- .Date.Format "2006" -}})
-  <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
+  <!-- <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>. -->
+  {{ if .Params.url_pdf }}
+    <a href="{{ .Params.url_pdf | relURL }}" itemprop="name">{{ .Title }}</a>
+  {{ else }}
+    <strong>{{ .Title }}</strong>
+  {{- end -}}
   {{ with .Params.publication}}
     <em>{{.}}</em>, 
   {{- end -}}
@@ -16,5 +21,4 @@
   {{ with .Params.pages }}
     pp. {{.}}
   {{- end -}}
-  <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
 </div>
