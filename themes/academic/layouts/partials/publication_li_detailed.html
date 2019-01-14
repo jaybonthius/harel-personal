@@ -12,7 +12,11 @@
   {{end}}
 
   <h3 class="article-title" itemprop="name">
-    <a href="{{ .RelPermalink }}" itemprop="url">{{ .Title }}</a>
+    {{ if .Params.url_pdf }}
+    <a href="{{ .Params.url_pdf | relURL }}" itemprop="name">{{ .Title }}</a>
+  {{ else }}
+    <strong>{{ .Title }}</strong>
+  {{- end -}}
   </h3>
 
   <div class="pub-abstract" itemprop="text">
@@ -36,10 +40,6 @@
     {{ .Params.publication | markdownify }},
     {{ end }}
     {{ .Date.Format "2006" }}
-  </div>
-
-  <div class="btn-links">
-    {{ partial "page_links" (dict "content" . "is_list" 1) }}
   </div>
 
 </div>
