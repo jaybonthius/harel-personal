@@ -21,4 +21,4 @@ interests = ["mathematics education"]
 +++
 # Biography
 
-Guershon Harel is a professor of mathematics at University of California, San Diego. His research is primarily interested in the cognition and epistemology of mathematics and their implications to mathematics curricula and teacher education.
+Guershon Harel is a professor of mathematics at University of California, San Diego. His research is primarily interested in the cognition and epistemology of mathematics and their implications to mathematics curricula and teacher education.  Blah!
