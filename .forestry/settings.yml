@@ -10,11 +10,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/project
   label: Project
   create: all
@@ -24,14 +19,11 @@ sections:
   label: Publication
   create: all
   match: "**/*"
+  templates:
+  - publications
 - type: directory
   path: content/talk
   label: Talk
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/post
-  label: Post
   create: all
   match: "**/*"
 upload_dir: static
