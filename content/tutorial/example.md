@@ -1,20 +1,14 @@
 +++
-title = "Example Page"
-
-date = 2018-09-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-
-# Add menu entry to sidebar.
+date = "2018-09-09T00:00:00.000+00:00"
 linktitle = "Example Page"
+title = "Example Page"
+toc = true
+type = "docs"
 [menu.tutorial]
-  parent = "Example Topic"
-  weight = 1
-+++
+parent = "Example Topic"
+weight = 2
 
++++
 In this tutorial, I'll share my top 10 tips for getting started with Academic:
 
 ## Tip 1
