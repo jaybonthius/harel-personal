@@ -4,13 +4,13 @@
     {{ with .Params.authors }}
       {{- delimit . ", " | markdownify -}}
     {{- end -}}
-  </span>.
+  </span>. 
+  ({{- .Date.Format "2006" -}})
   <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
-  {{ if .Params.publication_short }}
-    {{- .Params.publication_short | markdownify -}},
-  {{ else if .Params.publication }}
-    {{- .Params.publication | markdownify -}},
+  {{ if .Params.pages }}
+    {{- .Params.publication | markdownify -}}, ({{- .Params.pages | markdownify -}})
+  {{ else }}
+    {{- .Params.publication | markdownify -}}
   {{ end }}
-  {{- .Date.Format "2006" -}}.
   <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
 </div>
