@@ -16,7 +16,7 @@ course = "BS in Mathematics"
 institution = "Ben-Gurion University of the Negev, Israel"
 year = 1978
 [interests]
-interests = ["mathematics education", ""]
+interests = ["mathematics education"]
 
 +++
 # Biography
