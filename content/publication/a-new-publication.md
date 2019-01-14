@@ -5,7 +5,7 @@ publication = "Notices of the AMS"
 publication_types = ["3", "4"]
 selected = true
 title = "A new publication"
-url_pdf = "/uploads/pdf/ccss-geometry.pdf"
+url_pdf = "pdf/ccss-geometry.pdf"
 year = "2014-01-01T08:00:00+00:00"
-
+pages = "229 - 231"
 +++
