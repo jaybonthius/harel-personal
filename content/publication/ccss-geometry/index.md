@@ -4,7 +4,7 @@ date = 2014-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = "Harel, GEE"
+authors = ["Harel, GEE"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = "Harel, GEE"
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = "3"
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "*Notices of the AMS*"
