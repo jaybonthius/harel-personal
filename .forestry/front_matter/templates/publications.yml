@@ -39,3 +39,13 @@ fields:
   description: For example, Notices of the AMS
   config:
     required: false
+- type: boolean
+  name: selected
+  label: Selected
+  description: Is this a selected publication?  If so, it will also show up on your
+    homepage.
+  default: false
+- type: file
+  name: url_pdf
+  label: PDF upload
+  description: Do you have a PDF of the publication?
