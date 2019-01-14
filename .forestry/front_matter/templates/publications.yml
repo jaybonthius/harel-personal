@@ -1,6 +1,6 @@
 ---
 label: Publications
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
 - type: text
@@ -10,28 +10,36 @@ fields:
   hidden: false
   config:
     required: true
-- type: tag_list
-  name: authors
-  label: authors
-  description: 'authors of the article like this: Harel, G.'
+  default: Name of the publication
 - type: datetime
-  name: year
+  name: date
   label: Year
   description: the year of the publication
   config:
     date_format: YYYY
     required: true
+  default: 2019-01-01 08:00:00 +0000
+- type: tag_list
+  name: authors
+  label: authors
+  description: 'authors of the article like this: Harel, G.'
+  default:
+  - G. Harel
+  - B. Obama
 - type: text
   name: publication
   label: publication name
   description: For example, Notices of the AMS
   config:
     required: false
+  default: Notices of the AMS
 - type: tag_list
   name: publication_types
   label: publication types
   description: 'Legend: 0 = Uncategorized, 1 = Conference paper, 2 = Journal article,
     3 = Manuscript, 4 = Report, 5 = Book, 6 = Book section'
+  default:
+  - '2'
 - type: boolean
   name: selected
   label: Selected
@@ -42,6 +50,11 @@ fields:
   name: url_pdf
   label: PDF upload
   description: Do you have a PDF of the publication?
+- type: text
+  label: Pages
+  name: pages
+  description: the pages that you wrote
+  default: 229 - 247
 pages:
 - content/publication/a-new-publication.md
 - content/publication/research-in-collegiate-mathematics-education-vi.md
