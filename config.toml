@@ -9,11 +9,11 @@
 baseurl = "https://math.ucsd.edu/~jbonthiu/harel/"
 
 # Title of your site
-title = "Academic"
+title = "Guershon Harel"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -52,10 +52,10 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Guershon Harel"
+  role = "Professor of Mathematics"
 
-  # Organizations/Affiliations.
+  # Organizations/Affiliations. 
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Stanford University", url = "" } ]
 
@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
+  email = "harel@math.ucsd.edu"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = """
   Monday 10:00 to 13:00<br>
