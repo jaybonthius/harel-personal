@@ -17,3 +17,5 @@ fields:
   config:
     date_format: YYYY
     required: true
+pages:
+- content/publication/blah.md
