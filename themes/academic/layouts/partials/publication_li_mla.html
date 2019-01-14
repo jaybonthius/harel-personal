@@ -7,10 +7,14 @@
   </span>. 
   ({{- .Date.Format "2006" -}})
   <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
-  {{ if .Params.pages }}
-    {{- .Params.publication | markdownify -}}, ({{- .Params.pages | markdownify -}})
-  {{ else }}
-    {{- .Params.publication | markdownify -}}
-  {{ end }}
+  {{ with .Params.publication}}
+    <em>{{.}}</em>, 
+  {{- end -}}
+  {{ with .Params.edition }}
+    <em>{{.}}</em>, 
+  {{- end -}}
+  {{ with .Params.pages }}
+    pp. {{.}}
+  {{- end -}}
   <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
 </div>
