@@ -23,3 +23,13 @@ fields:
   description: 'list the authors like this: Harel, G., Fuller, E'
   config:
     required: true
+- type: number
+  name: publication_types
+  label: publication type
+  description: 0 = Uncategorized, 1 = Conference paper, 2 = Journal article, 3 = Manuscript,
+    4 = Report, 5 = Book, 6 = Book section
+  config:
+    step: '1'
+    min: '0'
+    max: '6'
+    required: true
