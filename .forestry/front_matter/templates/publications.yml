@@ -44,3 +44,4 @@ fields:
   description: Do you have a PDF of the publication?
 pages:
 - content/publication/a-new-publication.md
+- content/publication/research-in-collegiate-mathematics-education-vi.md
