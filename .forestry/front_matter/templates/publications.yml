@@ -18,22 +18,6 @@ fields:
     date_format: YYYY
     required: true
 - type: text
-  name: authors
-  label: authors
-  description: 'list the authors like this: Harel, G., Fuller, E'
-  config:
-    required: true
-- type: number
-  name: publication_types
-  label: publication type
-  description: 0 = Uncategorized, 1 = Conference paper, 2 = Journal article, 3 = Manuscript,
-    4 = Report, 5 = Book, 6 = Book section
-  config:
-    step: '1'
-    min: '0'
-    max: '6'
-    required: true
-- type: text
   name: publication
   label: publication name
   description: For example, Notices of the AMS
@@ -49,5 +33,13 @@ fields:
   name: url_pdf
   label: PDF upload
   description: Do you have a PDF of the publication?
+- type: select
+  config:
+    source:
+      type: documents
+- type: tag_list
+  name: authors
+  label: authors
+  description: 'authors of the article like this: Harel, G.'
 pages:
 - content/publication/a-new-publication.md
