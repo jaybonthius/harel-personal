@@ -1,0 +1,19 @@
+---
+label: Publications
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: the title of the publication
+  hidden: false
+  config:
+    required: true
+- type: datetime
+  name: year
+  label: Year
+  description: the year of the publication
+  config:
+    date_format: YYYY
+    required: true
