@@ -2,7 +2,7 @@
 active = true
 date_format = "January 2006"
 subtitle = ""
-title = "Experienceeee"
+title = "Experienceee"
 weight = 8
 widget = "experience"
 [[experience]]
