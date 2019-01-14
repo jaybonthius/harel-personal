@@ -17,3 +17,9 @@ fields:
   config:
     date_format: YYYY
     required: true
+- type: text
+  name: authors
+  label: authors
+  description: 'list the authors like this: Harel, G., Fuller, E'
+  config:
+    required: true
