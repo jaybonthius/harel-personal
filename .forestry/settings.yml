@@ -4,9 +4,6 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: content/presentation/_index.md
-  label: Presentation
 - type: directory
   path: content/home
   label: Home
@@ -24,6 +21,10 @@ sections:
   match: "**/*"
   templates:
   - publications
+- type: document
+  path: content/presentation/_index.md
+  label: Presentation
+  match: "**/*"
 upload_dir: static
 public_path: pdf
 front_matter_path: ''
