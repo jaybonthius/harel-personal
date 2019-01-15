@@ -1,27 +1,17 @@
 +++
 # Project title.
-title = "My Project"
-
-# Date this page was created.
-date = 2016-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+title = "Noyce Teaching Fellowship Program"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Demo"]
+# Example: `tags = ["funded", "DNR-Based Curricula", "Professional Development"]`
+tags = ["funded"]
 
-# Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+# Year(s)
+years = "2009 - 2015"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+# Summary
+summary = "NSF ($1,500,000)"
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+# URL
+link = "http://nsf.gov/awardsearch/showAward?AWD_ID=0934695&HistoricalAwards=false"
 +++
