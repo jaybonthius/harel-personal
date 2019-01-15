@@ -9,10 +9,6 @@ fields:
   description: Project title
   config:
     required: true
-- type: tag_list
-  name: tags
-  description: 'Enter the type of project.  Options: Funded, DNR, Professional'
-  label: Type of project
 - type: text
   name: years
   label: Years
@@ -25,3 +21,14 @@ fields:
   name: link
   label: Link
   description: the link to the page
+- type: select
+  name: type
+  config:
+    source:
+      type: simple
+    options:
+    - Funded
+    - DNR-based curricula
+    - Professional Development
+  label: Type
+  description: type of project
