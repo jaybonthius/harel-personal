@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Guershon Harel</title>
+    <link>https://math.ucsd.edu/~jbonthiu/harel/home/</link>
+    <description>Recent content in Homes on Guershon Harel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://math.ucsd.edu/~jbonthiu/harel/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://math.ucsd.edu/~jbonthiu/harel/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://math.ucsd.edu/~jbonthiu/harel/home/about/</guid>
+      <description>Biography Guershon Harel is a professor of mathematics at University of California, San Diego. His research is primarily interested in the cognition and epistemology of mathematics and their implications to mathematics curricula and teacher education.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://math.ucsd.edu/~jbonthiu/harel/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://math.ucsd.edu/~jbonthiu/harel/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://math.ucsd.edu/~jbonthiu/harel/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://math.ucsd.edu/~jbonthiu/harel/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://math.ucsd.edu/~jbonthiu/harel/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://math.ucsd.edu/~jbonthiu/harel/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://math.ucsd.edu/~jbonthiu/harel/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://math.ucsd.edu/~jbonthiu/harel/home/teaching/</guid>
+      <description>This quarter (Winter 2019) I am teaching the following courses.
+ MATH 2: Intro to College Math MATH 18: Linear Algebra MATH 95: Introduction to Teaching Math  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://math.ucsd.edu/~jbonthiu/harel/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://math.ucsd.edu/~jbonthiu/harel/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
