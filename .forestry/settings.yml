@@ -12,7 +12,7 @@ sections:
 - type: directory
   path: content/publication
   label: Publication
-  create: none
+  create: documents
   match: "**/*"
   templates:
   - publications
@@ -20,7 +20,7 @@ sections:
   path: content/presentation/_index.md
   label: Presentation
 - type: directory
-  path: content/project
+  path: content/project/_index.md
   label: Project
   create: none
   match: "**/*"
