@@ -44,6 +44,7 @@ _Current Projects (2009-)_
 
 * [M$f$A SD New Teacher Fellowship](http://www.mathforamerica.org/sandiego#Programs)
 * [M$f$A Master Teachers Program](http://www.mathforamerica.org/web/guest/master-teachers)
+* [My professional development project](www.xkcd.com)
 
 _Past Selected Projects_
 
