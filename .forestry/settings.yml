@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/presentation/
+  path: content/presentation/**/*
   label: Presentation
-  match: "**/*"
 - type: directory
   path: content/home
   label: Home
