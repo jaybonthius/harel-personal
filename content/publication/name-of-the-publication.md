@@ -7,6 +7,6 @@ publication = "Notices of the AMS"
 publication_types = ["2"]
 selected = false
 title = "Name of the publication"
-url_pdf = "/pdf/pdf/review.pdf"
+url_pdf = "/pdf/discussion8.pdf"
 
 +++
