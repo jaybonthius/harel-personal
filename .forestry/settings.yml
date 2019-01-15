@@ -17,7 +17,6 @@ sections:
 - type: document
   path: content/presentation
   label: Presentation
-  read_only: false
 - type: directory
   path: content/publication
   label: Publication
