@@ -14,6 +14,10 @@ sections:
   label: Project
   create: all
   match: "**/*"
+- type: document
+  path: content/presentation
+  label: Presentation
+  read_only: false
 - type: directory
   path: content/publication
   label: Publication
@@ -21,10 +25,6 @@ sections:
   match: "**/*"
   templates:
   - publications
-- type: document
-  path: content/presentation
-  label: Presentation
-  read_only: false
 upload_dir: static
 public_path: pdf
 front_matter_path: ''
