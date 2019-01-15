@@ -21,10 +21,9 @@ sections:
   match: "**/*"
   templates:
   - publications
-- type: directory
-  path: content/talk
-  label: Talk
-  create: all
+- type: document
+  path: content/presentation/**/*
+  label: Presentation
   match: "**/*"
 upload_dir: static
 public_path: pdf
