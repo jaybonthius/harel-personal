@@ -14,9 +14,6 @@ sections:
   label: Project
   create: all
   match: "**/*"
-- type: document
-  path: content/presentation
-  label: Presentation
 - type: directory
   path: content/publication
   label: Publication
