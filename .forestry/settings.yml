@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/presentation/_index.md
   label: Presentation
-  match: "**/*"
 - type: directory
   path: content/home
   label: Home
