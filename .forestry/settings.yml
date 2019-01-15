@@ -22,8 +22,9 @@ sections:
   templates:
   - publications
 - type: document
-  path: content/presentation/**/*
+  path: content/presentation
   label: Presentation
+  read_only: false
 upload_dir: static
 public_path: pdf
 front_matter_path: ''
