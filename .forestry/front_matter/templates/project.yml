@@ -1,0 +1,27 @@
+---
+label: Project
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Project title
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  description: 'Enter the type of project.  Options: Funded, DNR, Professional'
+  label: Type of project
+- type: text
+  name: years
+  label: Years
+  description: 'Example: 2009 - 2015'
+- type: text
+  name: summary
+  label: Summary
+  description: 'Put the funding source / amount of $ here.  Example: NSF ($1,500,000)'
+- type: text
+  name: link
+  label: Link
+  description: the link to the page
