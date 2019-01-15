@@ -5,8 +5,8 @@ edition = 20
 pages = "41-51"
 publication = "Journal for Research in Mathematics Education"
 publication_types = ["2"]
-selected = false
+selected = true
 title = "Proof frame of preservice elementary teachers"
-url_pdf = "pdf/Proof Frames.pdf"
+url_pdf = "/pdf/Proof Frames.pdf"
 
 +++
