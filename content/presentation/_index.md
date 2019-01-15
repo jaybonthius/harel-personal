@@ -6,12 +6,7 @@ caption = ""
 image = ""
 
 +++
-<details><summary>
-
-**Keynote and Plenary Addresses**
-
-</summary>
-<p>
+<details><summary>**Keynote and Plenary Addresses**</summary><p>
 
 * Intellectual Need and its Application in Curriculum and Instruction; MAA Souther California-Nevada Section; Long Beach, California; October, 2012.
 * A Research-Based Framework for Teaching Mathematics Effectively; Scientia Conference on  
@@ -44,17 +39,9 @@ image = ""
 * A fundamental principle of learning and its application in modifying students' conception of proof; The Annual Joint Meeting of the MAA-MAS; San Diego, California; January 1997.
 * Pedagogical principle in teaching mathematics, with particular reference to the teaching of linear algebra; The International Conference of the International Linear Algebra Society (ILAS); Athens, Georgia; August 1995.
 
-</p>
-</details>
+</p></details>
 
-<details>
-
-<summary>
-
-**Invited Talks**
-
-</summary>
-<p>
+<details><summary>**Invited Talks**</summary><p>
 
 * Developing and Sustaining Professional Communities of Teachers around Mathematical Content and Student Intellectual Need; Joint Mathematics Meeting (JMM); San Diego, California, January, 2013.
 * Intellectual Need and its Application in Mathematics Curricula; School of Mathematical and Statistical Sciences; Arizona State University; November, 2012.
@@ -104,12 +91,7 @@ image = ""
 
 <details>
 
-<summary>
-
-**Conference Talks**
-
-</summary>
-<p>
+<summary>**Conference Talks**</summary><p>
 
 * Teachers’ use of examples as a pedagogical tool. Annual Conference of the International Group of the Psychology of Mathematics Education,Prague, Check Republic; July 2006.
 * Teachers’ ways of thinking associated with the mental act of problem posing. Annual Conference of the International Group of the Psychology of Mathematics Education,Prague, Check Republic; July 2006.
@@ -163,5 +145,4 @@ image = ""
 * A comparison between two approaches to embodying mathematical models in the abstract system of linear algebra; The Annual Meeting of the International Group For the Psychology of Mathematics Education-North America Chapter; Michigan State University; September 1986.
 * The concept of proof held by preservice elementary teachers; The Annual Meeting of the International Group For the Psychology of Mathematics Education; City University, London; July 1986.
 
-</p>
-</details>
+</p></details>
