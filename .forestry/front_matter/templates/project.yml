@@ -32,3 +32,5 @@ fields:
     - Professional Development
   label: Type
   description: type of project
+pages:
+- content/project/my-test-project.md
