@@ -23,11 +23,11 @@ languageCode = "en-us"
 [[menu.main]]
 name = "Presentations"
 url = "presentation"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "Teaching"
 url = "#teaching"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "Contact"
 url = "#contact"
@@ -35,7 +35,7 @@ weight = 6
 [[menu.main]]
 name = "Projects"
 url = "project"
-weight = 3
+weight = 5
 [[menu.main]]
 name = "Publications"
 url = "#publications_selected"
