@@ -22,7 +22,6 @@ sections:
 - type: document
   path: content/project/_index.md
   label: Project
-  match: "**/*"
 upload_dir: static
 public_path: pdf
 front_matter_path: ''
