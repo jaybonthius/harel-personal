@@ -6,15 +6,15 @@ widget = "about"
 [[education.courses]]
 course = "PhD in Mathematics"
 institution = "Ben-Gurion University of the Negev, Israel"
-year = 1985
+year = ""
 [[education.courses]]
 course = "MS in Mathematics"
 institution = "Ben-Gurion University of the Negev, Israel"
-year = 1980
+year = ""
 [[education.courses]]
 course = "BS in Mathematics"
 institution = "Ben-Gurion University of the Negev, Israel"
-year = 1978
+year = ""
 
 +++
 # Biography
