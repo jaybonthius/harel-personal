@@ -19,7 +19,7 @@ year = ""
 +++
 # Biography
 
-Guershon Harel is a professor of mathematics at University of California, San Diego. His research is primarily cognition and epistemology of mathematics and their application in the development of mathematical ways of understanding and ways of thinking.  **Hello!**
+Guershon Harel is a professor of mathematics at University of California, San Diego. His research is primarily cognition and epistemology of mathematics and their application in the development of mathematical ways of understanding and ways of thinking.
 
 Harel's research interest revolved around two areas: the _multiplicative conceptual field_ (MCF), which deals with the teaching of multiplicative concepts, such as multiplication, division, ratio and proportion, and linearity—and _advanced mathematical thinking_ (AMT), with particular attention to the learning and teaching of _mathematical proof_, _reasoning in terms of functions,_ and _linear algebra_. His work on the MCF has contributed to the understanding of the interconnectivity of the cognitive development of different MCF concepts, and has explored critical cognitive processes that take place during the child’s transition from additive reasoning to multiplicative reasoning.
 
