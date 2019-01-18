@@ -1,7 +1,6 @@
 +++
 authors = ["G. Harel", "B. Obama"]
 date = "2016-01-01T08:00:00+00:00"
-draft = true
 edition = ""
 pages = "229 - 247"
 publication = "Notices of the AMS"

@@ -60,7 +60,6 @@ fields:
     homepage.
   default: false
 pages:
-- content/publication/name-of-the-publication.md
 - content/publication/learning-and-teaching-linear-algebra-difficulties-and-an-alternative-approach-to-visualizing-concepts-and-processes.md
 - content/publication/proof-frame-of-preservice-elementary-teachers.md
 - content/publication/structure-and-hierarchy-of-missing-value-proportion-problems-and-their-representations.md
