@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/the-role-of-teachers-knowledge-of-functions-in-their-teaching-a-conceptual-approach-with-illustrations-from-two-cases.md
 - content/publication/dnr-based-curricula-the-case-of-complex-numbers.md
 - content/publication/intellectual-need.md
 - content/publication/common-core-state-standards-for-geometry-an-alternative-approach.md
