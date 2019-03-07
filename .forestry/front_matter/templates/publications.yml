@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/justification-and-proof-in-mathematics-and-mathematics-education.md
 - content/publication/proof-frame-of-preservice-elementary-teachers.md
 - content/publication/structure-and-hierarchy-of-missing-value-proportion-problems-and-their-representations.md
 - content/publication/learning-and-teaching-linear-algebra-difficulties-and-an-alternative-approach-to-visualizing-concepts-and-processes.md
