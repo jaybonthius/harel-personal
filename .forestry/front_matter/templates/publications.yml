@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/intellectual-need.md
 - content/publication/common-core-state-standards-for-geometry-an-alternative-approach.md
 - content/publication/determinants-of-a-dnr-expert-s-teaching.md
 - content/publication/justification-and-proof-in-mathematics-and-mathematics-education.md
