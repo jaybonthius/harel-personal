@@ -29,7 +29,7 @@
 
   <div class="pub-authors" itemprop="author">
     {{ with .Params.authors }}
-    {{ delimit . ", " | markdownify }}
+      {{.}}
     {{ end }}
   </div>
 

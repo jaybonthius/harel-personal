@@ -1,5 +1,5 @@
 +++
-authors = ["G. Harel"]
+authors = "Harel, G., & Behr, M."
 date = "1989-01-01T08:00:00+00:00"
 edition = 8
 pages = "77-119"

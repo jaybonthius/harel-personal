@@ -3,13 +3,14 @@ label: Publications
 hide_body: true
 is_partial: false
 fields:
-- type: tag_list
+- type: text
+  label: Authors
   name: authors
-  label: authors
-  description: 'authors of the article like this: Harel, G.'
-  default:
-  - G. Harel
-  - B. Obama
+  description: the authors, like "Harel, G.""
+  hidden: false
+  config:
+    required: true
+  default: Harel, G.
 - type: datetime
   name: date
   label: Year

@@ -7,7 +7,7 @@
   {{- end -}}
   <div itemprop="author">
     {{ with .Params.authors }}
-      {{- delimit . ", " | markdownify -}}
+      {{.}}
     {{- end -}}
   </div>
 </div>

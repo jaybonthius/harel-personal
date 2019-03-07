@@ -2,9 +2,9 @@
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <span itemprop="author">
     {{ with .Params.authors }}
-      {{- delimit . ", " | markdownify -}}
+      {{.}}
     {{- end -}}
-  </span>. 
+  </span>
   ({{- .Date.Format "2006" -}})
   <!-- <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>. -->
   {{ if .Params.url_pdf }}
