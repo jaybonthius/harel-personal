@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/college-instructors-views-of-students-vis-a-vi-proof.md
 - content/publication/current-contributions-toward-comprehensive-perspectives-on-the-learning-and-teaching-of-proof-teaching-and-learning-proof-across-the-grades-a-k-16-perspective.md
 - content/publication/dnr-based-instruction-in-mathematics-as-a-conceptual-framework.md
 - content/publication/commentary-on-the-theoretical-conceptual-and-philosophical-foundations-for-research-in-mathematics-education.md
