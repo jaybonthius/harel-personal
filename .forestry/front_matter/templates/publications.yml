@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/an-operational-definition-of-learning.md
 - content/publication/the-state-of-high-school-textbooks.md
 - content/publication/ways-of-thinking-associated-with-mathematics-teachers-problem-posing-in-the-context-of-division-of-fractions.md
 - content/publication/deductive-reasoning-in-mathematics-education.md
