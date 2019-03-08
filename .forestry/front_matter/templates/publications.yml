@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/dnr-based-instruction-in-mathematics-as-a-conceptual-framework.md
 - content/publication/commentary-on-the-theoretical-conceptual-and-philosophical-foundations-for-research-in-mathematics-education.md
 - content/publication/teaching-practices-associated-with-the-authoritative-proof-scheme.md
 - content/publication/teaching-practices-that-can-promote-the-authoritative-proof-scheme.md
