@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/intellectual-need-and-problem-free-activity-in-the-classroom.md
 - content/publication/an-operational-definition-of-learning.md
 - content/publication/the-state-of-high-school-textbooks.md
 - content/publication/ways-of-thinking-associated-with-mathematics-teachers-problem-posing-in-the-context-of-division-of-fractions.md
