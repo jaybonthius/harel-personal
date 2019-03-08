@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/mathematical-induction-cognitive-and-instructional-considerations.md
 - content/publication/dnr-perspective-on-mathematics-curriculum-and-instruction-part-ii.md
 - content/publication/attention-to-meaning-by-algebra-teachers.md
 - content/publication/college-instructors-views-of-students-vis-a-vi-proof.md
