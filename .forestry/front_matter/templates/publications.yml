@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/ways-of-thinking-associated-with-mathematics-teachers-problem-posing-in-the-context-of-division-of-fractions.md
 - content/publication/deductive-reasoning-in-mathematics-education.md
 - content/publication/the-kaputian-program-and-its-relation-to-dnr-based-instruction-a-common-commitment-to-the-developmnent-of-mathematics-with-meaning.md
 - content/publication/reid-d-a-and-knipping-c-proof-in-mathematics-education-research-learning-and-teaching.md
