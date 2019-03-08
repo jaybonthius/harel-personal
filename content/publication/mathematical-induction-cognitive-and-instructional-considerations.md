@@ -1,6 +1,6 @@
 +++
 authors = "Harel, G., & Brown, S."
-date = "2019-01-01T08:00:00.000+00:00"
+date = "2008-01-01T08:00:00+00:00"
 edition = 11
 pages = "111 - 123"
 publication = "M. Carlson, & C. Rasmussen (Eds.), Making the Connection: Research and Practice in Undergraduate Mathematics, Mathematical American Association"
