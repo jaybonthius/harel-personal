@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/preface.md
 - content/publication/the-dnr-system-as-a-conceptual-framework-for-curriculum-development-and-instruction.md
 - content/publication/toward-a-comprehensive-perspective-on-proof.md
 - content/publication/triadic-interaction-in-clinical-task-based-interviews-with-mathematics-teachers.md
