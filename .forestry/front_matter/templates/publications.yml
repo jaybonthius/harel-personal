@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/three-principles-of-learning-and-teaching-with-particular-reference-to-the-learning-and-teaching-of-linear-algebra.md
 - content/publication/name-of-the-publication.md
 - content/publication/the-role-of-structural-and-semantic-factors-in-the-solution-of-algebra-speed-problems.md
 - content/publication/the-role-of-analogy-in-the-learning-of-mathematics.md
