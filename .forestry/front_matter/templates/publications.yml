@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/units-of-quantity-a-conceptual-basis-common-to-additive-and-multiplicative-structures.md
 - content/publication/from-naive-interpretist-to-operation-conserver.md
 - content/publication/teachers-solutions-for-multiplicative-problems.md
 - content/publication/conceptual-units-analysis-of-preservice-elementary-school-teachers-strategies-on-a-rational-number-as-operator-task.md
