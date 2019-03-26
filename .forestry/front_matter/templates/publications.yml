@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/from-naive-interpretist-to-operation-conserver.md
 - content/publication/teachers-solutions-for-multiplicative-problems.md
 - content/publication/conceptual-units-analysis-of-preservice-elementary-school-teachers-strategies-on-a-rational-number-as-operator-task.md
 - content/publication/the-linear-algebra-curriculum-study-group-recommendations-moving-beyond-concept-definition.md
