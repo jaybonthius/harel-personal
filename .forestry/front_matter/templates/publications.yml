@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/local-conceptual-development-of-proof-schemes-in-a-cooperative-learning-setting.md
 - content/publication/students-proof-schemes-revisited-historical-and-epistemological-considerations.md
 - content/publication/case-studies-of-mathematics-majors-proof-understanding-production-and-appreciation.md
 - content/publication/problem-solving-modeling-and-local-conceptual-development.md
