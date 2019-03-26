@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/students-proof-schemes.md
 - content/publication/types-of-students-justifications.md
 - content/publication/students-understanding-of-proofs-a-historical-analysis-and-implications-for-the-teaching-of-geometry-and-linear-algebra.md
 - content/publication/three-principles-of-learning-and-teaching-mathematics-particular-reference-to-linear-algebra-old-and-new-observations.md
