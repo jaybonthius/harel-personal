@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/triadic-interaction-in-clinical-task-based-interviews-with-mathematics-teachers.md
 - content/publication/maintaining-the-mathematical-integrity-of-school-curricula-the-challenge.md
 - content/publication/what-is-mathematics-a-pedagogical-answer-to-a-philosophical-question.md
 - content/publication/mathematical-induction-cognitive-and-instructional-considerations.md
