@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/case-studies-of-mathematics-majors-proof-understanding-production-and-appreciation.md
 - content/publication/problem-solving-modeling-and-local-conceptual-development.md
 - content/publication/polygons-whose-vertex-triangles-have-equal-area.md
 - content/publication/a-perspective-on-concept-image-and-concept-definition-in-mathematics-with-particular-reference-to-limits-and-continuity.md
