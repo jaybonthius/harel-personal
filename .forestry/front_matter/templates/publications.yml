@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/name-of-the-publication.md
 - content/publication/the-role-of-structural-and-semantic-factors-in-the-solution-of-algebra-speed-problems.md
 - content/publication/the-role-of-analogy-in-the-learning-of-mathematics.md
 - content/publication/two-dual-assertions-the-first-on-learning-and-the-second-on-teaching-or-vice-versa.md
