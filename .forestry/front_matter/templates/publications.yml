@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/conceptual-units-analysis-of-preservice-elementary-school-teachers-strategies-on-a-rational-number-as-operator-task.md
 - content/publication/the-linear-algebra-curriculum-study-group-recommendations-moving-beyond-concept-definition.md
 - content/publication/three-principles-of-learning-and-teaching-with-particular-reference-to-the-learning-and-teaching-of-linear-algebra.md
 - content/publication/name-of-the-publication.md
