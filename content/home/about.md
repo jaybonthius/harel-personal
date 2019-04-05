@@ -19,15 +19,15 @@ year = ""
 +++
 # Biography
 
-Guershon Harel is a professor of mathematics at University of California, San Diego.
+Guershon Jackson Harel is a professor of mathematics at University of California, San Diego.
 
 Harel's research interest is in cognition and epistemology of mathematics and their application in the learning and teaching of mathematics. His research has focused on two areas: the _multiplicative conceptual field_ (MCF) and _advanced mathematical thinking_ (AMT).
 
 MCF deals with the learning and teaching of multiplicative concepts, such as multiplication, division, fractions, and ratio and proportion. Harel's work in this area has dealt with the interconnectivity of the cognitive development of different MCF concepts, and has explored cognitive processes that take place during the child’s transition from additive reasoning to multiplicative reasoning.
 
-AMT deals mostly with the learning and teaching of mathematics at the undergraduate level. Harel's work in this area has focused on functional reasoning, linear-algebraic reasoning, and deductive reasoning. Harel's work on functional reasoning centered on students’ ability to interpret situations in terms of function, and the cognitive and instructional processes involved in the various abstraction levels of this concept. 
+AMT deals mostly with the learning and teaching of mathematics at the undergraduate level. Harel's work in this area has focused on functional reasoning, linear-algebraic reasoning, and deductive reasoning. Harel's work on functional reasoning centered on students’ ability to interpret situations in terms of function, and the cognitive and instructional processes involved in the various abstraction levels of this concept.
 
-His work on linear-algebraic reasoning includes analyses of didactical and epistemological difficulties involved in the learning of linear algebra; approaches to the teaching of linear algebra and their relative efficacy; and the pedagogical role of geometry play in the learning and teaching of linear algebra. 
+His work on linear-algebraic reasoning includes analyses of didactical and epistemological difficulties involved in the learning of linear algebra; approaches to the teaching of linear algebra and their relative efficacy; and the pedagogical role of geometry play in the learning and teaching of linear algebra.
 
 Harel's work on deductive reasoning focused on the development of a cognitive framework, informed by historical, philosophical, and cultural analyses, for examining students’ conceptions of proof, called _proof schemes_ (ways an individual assures oneself and convinces others about the truth of a mathematical assertion). The framework offers a field-based taxonomy of students’ proof schemes.
 
