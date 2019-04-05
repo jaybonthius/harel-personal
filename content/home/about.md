@@ -21,7 +21,7 @@ year = ""
 
 Guershon Harel is a professor of mathematics at University of California, San Diego.
 
-Harel's research interest is in cognition and epistemology of mathematics and their application in the learning and teaching of mathematics. His research has focused on two areas: the _multiplicative conceptual field_ (MCF) and _advanced mathematical thinking_ (AMT).
+Harel's research interest is in cognition and epistemology of mathematics and their application in the learning and teaching of mathematics. His research has focused on two areas: the _multiplicative conceptual field_ (**MCF**) and _advanced mathematical thinking_ (**AMT**).
 
 MCF deals with the learning and teaching of multiplicative concepts, such as multiplication, division, fractions, and ratio and proportion. Harel's work in this area has dealt with the interconnectivity of the cognitive development among different MCF concepts, and has explored cognitive processes that take place during the child’s transition from additive reasoning to multiplicative reasoning.
 
