@@ -1,4 +1,4 @@
-baseurl = "https://math.ucsd.edu/~jbonthiu/harel/"
+baseurl = "https://math.ucsd.edu/~harel/"
 copyright = "&copy; 2019"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
