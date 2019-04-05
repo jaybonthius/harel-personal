@@ -11,6 +11,14 @@
 {{ end }}
 {{ $section := .Scratch.Get "section" }}
 
+<section class="home-section" style="padding-bottom: 1em">
+  <div class="container" id="top">
+    <div class="alert alert-warning">
+      This website is curently under construction.
+    </div>
+  </div>
+</section>
+
 <!-- Widgets -->
 {{ range $index, $page := where (where .Data.Pages "Section" $section) ".Params.active" "!=" false }}
   {{ $params := dict "root" $ "page" $page }}

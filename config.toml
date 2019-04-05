@@ -42,7 +42,7 @@ url = "#publications_selected"
 weight = 2
 [[menu.main]]
 name = "Home"
-url = "#about"
+url = "#top"
 weight = 1
 [outputs]
 home = ["HTML", "CSS", "RSS", "JSON"]
