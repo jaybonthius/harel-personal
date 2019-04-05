@@ -8,7 +8,3 @@ widget = "custom"
 
 +++
 This quarter (Winter 2019) I am teaching the following courses.
-
-* [MATH 2: Intro to College Math](tritoned.ucsd.edu) 
-* [MATH 18: Linear Algebra](tritoned.ucsd.edu)
-* [MATH 95: Introduction to Teaching Math](tritoned.ucsd.edu)
