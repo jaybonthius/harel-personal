@@ -19,7 +19,7 @@ year = ""
 +++
 # Biography
 
-Guershon Jackson Harel is a professor of mathematics at University of California, San Diego.
+Guershon Harel is a professor of mathematics at University of California, San Diego.
 
 Harel's research interest is in cognition and epistemology of mathematics and their application in the learning and teaching of mathematics. His research has focused on two areas: the _multiplicative conceptual field_ (MCF) and _advanced mathematical thinking_ (AMT).
 
