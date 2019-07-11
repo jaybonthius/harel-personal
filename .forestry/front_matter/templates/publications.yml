@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/rational-numbers-an-integration-of-research-in-t-carpenter-l-fennema-t-romberg-eds.md
 - content/publication/curriculum-implications-in-t-carpenter-l-fennema-t-romberg-eds.md
 - content/publication/on-teacher-education-programs-in-mathematics-international.md
 - content/publication/invariance-of-ratio-the-case-of-children-s-anticipatory-scheme-of-constancy-of-taste.md
