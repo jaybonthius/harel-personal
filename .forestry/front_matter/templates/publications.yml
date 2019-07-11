@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/the-blocks-task-on-proportionality-expert-solution-models.md
 - content/publication/the-blocks-task-comparative-analyses-with-other-proportion-tasks-and-qualitative-reasoning-skills-among-7th-grade-children-in-solving-the-task.md
 - content/publication/rational-numbers-an-integration-of-research-in-t-carpenter-l-fennema-t-romberg-eds.md
 - content/publication/curriculum-implications-in-t-carpenter-l-fennema-t-romberg-eds.md
