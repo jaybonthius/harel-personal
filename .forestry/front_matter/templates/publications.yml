@@ -17,7 +17,7 @@ fields:
   config:
     date_format: YYYY
     required: true
-  default: 2019-01-01 08:00:00 +0000
+  default: '2019-01-01T08:00:00.000+00:00'
 - type: text
   label: Title
   name: title
@@ -88,33 +88,33 @@ pages:
 - content/publication/case-studies-of-mathematics-majors-proof-understanding-production-and-appreciation.md
 - content/publication/triadic-interaction-in-clinical-task-based-interviews-with-mathematics-teachers.md
 - content/publication/what-is-mathematics-a-pedagogical-answer-to-a-philosophical-question.md
-- content/publication/the-impact-of-the-number-type-on-the-solution-of-multiplication-and-division-problems-further-considerations.md
-- content/publication/from-naive-interpretist-to-operation-conserver.md
-- content/publication/teachers-solutions-for-multiplicative-problems.md
-- content/publication/conceptual-units-analysis-of-preservice-elementary-school-teachers-strategies-on-a-rational-number-as-operator-task.md
-- content/publication/name-of-the-publication.md
-- content/publication/the-role-of-analogy-in-the-learning-of-mathematics.md
-- content/publication/two-dual-assertions-the-first-on-learning-and-the-second-on-teaching-or-vice-versa.md
-- content/publication/types-of-students-justifications.md
-- content/publication/students-understanding-of-proofs-a-historical-analysis-and-implications-for-the-teaching-of-geometry-and-linear-algebra.md
-- content/publication/local-conceptual-development-of-proof-schemes-in-a-cooperative-learning-setting.md
-- content/publication/problem-solving-modeling-and-local-conceptual-development.md
-- content/publication/advanced-mathematical-thinking-at-any-age-its-nature-and-its-development.md
-- content/publication/mathematics-education-research-its-nature-and-its-purpose-a-discussion-of-lester-s-paper.md
-- content/publication/preface.md
-- content/publication/the-dnr-system-as-a-conceptual-framework-for-curriculum-development-and-instruction.md
-- content/publication/toward-a-comprehensive-perspective-on-proof.md
+- content/publication/classroom-based-interventions-in-mathematics-education-relevance-significance-and-applicability.md
+- content/publication/reid-d-a-and-knipping-c-proof-in-mathematics-education-research-learning-and-teaching.md
+- content/publication/determinants-of-a-dnr-expert-s-teaching.md
+- content/publication/proof-frame-of-preservice-elementary-teachers.md
+- content/publication/structure-and-hierarchy-of-missing-value-proportion-problems-and-their-representations.md
 - content/publication/attention-to-meaning-by-algebra-teachers.md
 - content/publication/dnr-based-instruction-in-mathematics-as-a-conceptual-framework.md
 - content/publication/the-state-of-high-school-textbooks.md
 - content/publication/ways-of-thinking-associated-with-mathematics-teachers-problem-posing-in-the-context-of-division-of-fractions.md
-- content/publication/reid-d-a-and-knipping-c-proof-in-mathematics-education-research-learning-and-teaching.md
-- content/publication/classroom-based-interventions-in-mathematics-education-relevance-significance-and-applicability.md
 - content/publication/dnr-based-curricula-the-case-of-complex-numbers.md
-- content/publication/intellectual-need.md
-- content/publication/determinants-of-a-dnr-expert-s-teaching.md
-- content/publication/proof-frame-of-preservice-elementary-teachers.md
-- content/publication/structure-and-hierarchy-of-missing-value-proportion-problems-and-their-representations.md
-- content/publication/learning-and-teaching-linear-algebra-difficulties-and-an-alternative-approach-to-visualizing-concepts-and-processes.md
 - content/publication/a-pedagogical-approach-to-forming-generalizations.md
 - content/publication/variations-in-linear-algebra-content-presentation.md
+- content/publication/learning-and-teaching-linear-algebra-difficulties-and-an-alternative-approach-to-visualizing-concepts-and-processes.md
+- content/publication/the-impact-of-the-number-type-on-the-solution-of-multiplication-and-division-problems-further-considerations.md
+- content/publication/from-naive-interpretist-to-operation-conserver.md
+- content/publication/conceptual-units-analysis-of-preservice-elementary-school-teachers-strategies-on-a-rational-number-as-operator-task.md
+- content/publication/types-of-students-justifications.md
+- content/publication/the-role-of-analogy-in-the-learning-of-mathematics.md
+- content/publication/teachers-solutions-for-multiplicative-problems.md
+- content/publication/two-dual-assertions-the-first-on-learning-and-the-second-on-teaching-or-vice-versa.md
+- content/publication/local-conceptual-development-of-proof-schemes-in-a-cooperative-learning-setting.md
+- content/publication/problem-solving-modeling-and-local-conceptual-development.md
+- content/publication/name-of-the-publication.md
+- content/publication/advanced-mathematical-thinking-at-any-age-its-nature-and-its-development.md
+- content/publication/mathematics-education-research-its-nature-and-its-purpose-a-discussion-of-lester-s-paper.md
+- content/publication/preface.md
+- content/publication/students-understanding-of-proofs-a-historical-analysis-and-implications-for-the-teaching-of-geometry-and-linear-algebra.md
+- content/publication/the-dnr-system-as-a-conceptual-framework-for-curriculum-development-and-instruction.md
+- content/publication/toward-a-comprehensive-perspective-on-proof.md
+- content/publication/intellectual-need.md
