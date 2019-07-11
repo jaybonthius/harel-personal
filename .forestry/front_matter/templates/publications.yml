@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/on-teacher-education-programs-in-mathematics-international.md
 - content/publication/invariance-of-ratio-the-case-of-children-s-anticipatory-scheme-of-constancy-of-taste.md
 - content/publication/a-perspective-on-concept-image-and-concept-definition-in-mathematics-with-particular-reference-to-limits-and-continuity.md
 - content/publication/the-kaputian-program-and-its-relation-to-dnr-based-instruction-a-common-commitment-to-the-developmnent-of-mathematics-with-meaning.md
