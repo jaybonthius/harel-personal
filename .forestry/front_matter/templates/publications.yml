@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/rational-number-ratio-and-proportion-in-d-grouws-ed.md
 - content/publication/the-process-conception-of-function-in-g-harel-e-dubinsky.md
 - content/publication/the-blocks-task-on-proportionality-expert-solution-models.md
 - content/publication/the-blocks-task-comparative-analyses-with-other-proportion-tasks-and-qualitative-reasoning-skills-among-7th-grade-children-in-solving-the-task.md
