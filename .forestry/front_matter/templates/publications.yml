@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/intermediate-teachers-knowledge-of-rational-number-concepts-in-e-fennema-t-p-carpenter-and-s-j-lamon-eds.md
 - content/publication/rational-number-ratio-and-proportion-in-d-grouws-ed.md
 - content/publication/the-process-conception-of-function-in-g-harel-e-dubinsky.md
 - content/publication/the-blocks-task-on-proportionality-expert-solution-models.md
