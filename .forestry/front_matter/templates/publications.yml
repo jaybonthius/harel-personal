@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/local-conceptual-development-of-proof-schemes-in-a-cooperative-learning-setting.md
 - content/publication/variations-in-linear-algebra-content-presentation-1.md
 - content/publication/name-of-the-publicatstructure-and-hierarchy-of-missing-value-proportion-problems-and-their-representationsion.md
 - content/publication/a-pedagogical-approach-to-forming-generalizations-1.md
@@ -131,7 +132,6 @@ pages:
 - content/publication/the-role-of-analogy-in-the-learning-of-mathematics.md
 - content/publication/teachers-solutions-for-multiplicative-problems.md
 - content/publication/two-dual-assertions-the-first-on-learning-and-the-second-on-teaching-or-vice-versa.md
-- content/publication/local-conceptual-development-of-proof-schemes-in-a-cooperative-learning-setting.md
 - content/publication/problem-solving-modeling-and-local-conceptual-development.md
 - content/publication/name-of-the-publication.md
 - content/publication/advanced-mathematical-thinking-at-any-age-its-nature-and-its-development.md
