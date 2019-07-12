@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/variations-in-linear-algebra-content-presentation-1.md
 - content/publication/name-of-the-publicatstructure-and-hierarchy-of-missing-value-proportion-problems-and-their-representationsion.md
 - content/publication/a-pedagogical-approach-to-forming-generalizations-1.md
 - content/publication/learning-and-teaching-linear-algebra-difficulties-and-an-alternative-approach-to-visualizing-concepts-and-processes-1.md
