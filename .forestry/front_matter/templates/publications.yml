@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/the-effect-of-order-and-coordination-of-the-problem-quantities-on-difficulty-of-missing-value-proportion-problems.md
 - content/publication/students-errors-misconception-and-cognitive-conflict-in-application-of-procedures.md
 - content/publication/the-general-the-abstract-and-the-generic.md
 - content/publication/ed-s-strategy-for-solving-division-problems.md
