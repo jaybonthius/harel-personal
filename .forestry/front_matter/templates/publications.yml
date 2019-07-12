@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/higher-order-knowledge-involved-in-the-solution-of-algebra-speed-word-problems.md
 - content/publication/the-effect-of-order-and-coordination-of-the-problem-quantities-on-difficulty-of-missing-value-proportion-problems.md
 - content/publication/using-geometric-models-and-vector-arithmetic-to-teach-high-school-students-basic-notions-in-linear-algebra.md
 - content/publication/students-errors-misconception-and-cognitive-conflict-in-application-of-procedures.md
