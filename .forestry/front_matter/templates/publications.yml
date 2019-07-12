@@ -61,6 +61,7 @@ fields:
   default: false
 pages:
 - content/publication/learning-and-teaching-linear-algebra-difficulties-and-an-alternative-approach-to-visualizing-concepts-and-processes-1.md
+- content/publication/name-of-the-publicatstructure-and-hierarchy-of-missing-value-proportion-problems-and-their-representationsion.md
 - content/publication/proof-frame-of-preservice-elementary-teachers-1.md
 - content/publication/applying-the-principle-of-multiple-embodiments-in-teaching-linear-algebra-aspects-of-familiarity-and-mode-of-representation.md
 - content/publication/the-structure-of-speed-problems-and-its-relation-to-problem-complexity-and-isomorphism.md
