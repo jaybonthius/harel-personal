@@ -60,6 +60,7 @@ fields:
     homepage.
   default: false
 pages:
+- content/publication/the-general-the-abstract-and-the-generic.md
 - content/publication/ed-s-strategy-for-solving-division-problems.md
 - content/publication/the-role-of-conceptual-entities-in-building-advanced-mathematical-concepts-and-their-symbols-in-d-tall-ed.md
 - content/publication/intermediate-teachers-knowledge-of-rational-number-concepts-in-e-fennema-t-p-carpenter-and-s-j-lamon-eds.md
